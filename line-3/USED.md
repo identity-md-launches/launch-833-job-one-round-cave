@@ -1,0 +1,3 @@
+- Python 3 standard library (`urllib`, `json`, `hashlib`) for read-only Ethereum JSON-RPC requests.
+- https://ethereum-rpc.publicnode.com for the recorded live-chain check.
+- The supplied bare-cave PNG as the unmodified base layer for this wall.
