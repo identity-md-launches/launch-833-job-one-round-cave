@@ -1,0 +1,10 @@
+{
+  "png_decode_and_dimensions": "pass",
+  "unchanged_pixels_outside_mark_rectangle": true,
+  "changed_pixels": 46203,
+  "line_directories_unchanged": true,
+  "record_schema_and_sha256": "pass",
+  "gallery_records": 5,
+  "non_artifact_file_size_limit": "pass",
+  "live_evidence_digests_and_source_inventory": "pass"
+}

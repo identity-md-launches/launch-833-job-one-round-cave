@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "bytes": 1915,
+      "path": "line-1/tools/handoff/README.md",
+      "sha256": "ce50f263555e1e8271a51f890337e92d7dbe6bc6a2dd5d0ffcd2e20b1bf44b66"
+    },
+    {
+      "bytes": 4397,
+      "path": "line-1/tools/handoff/handoff.py",
+      "sha256": "b4ca6e0f0f6767ce360ad4d36de56aa59d1740572a857563094f8aa53136e0f9"
+    },
+    {
+      "bytes": 2455,
+      "path": "line-1/tools/handoff/test_handoff.py",
+      "sha256": "2b62e39ecb2f2608b957a2659af8dd701e748f2ecc1068beabbf450ac905dff4"
+    }
+  ],
+  "schema": "swarm-handoff/v1",
+  "scopes": [
+    "line-1/tools/handoff"
+  ]
+}

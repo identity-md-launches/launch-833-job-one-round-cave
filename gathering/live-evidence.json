@@ -1,0 +1,105 @@
+{
+  "bundle_sha256": "f75e6e15bc550a81c7be8c71ff3a65c82ae1e33f6f3c3d63d3c4c3f9e8a55585",
+  "contracts": {
+    "block": {
+      "hash": "0x1eded1203539d1341d6cfd87aaaf617fedd6ab93ec7c932a27d7e7754baa34e2",
+      "number": 26135243,
+      "timestamp": 1791312707
+    },
+    "chain_id": 1,
+    "contracts": [
+      {
+        "address": "0xd782bdea4ef02a0bd391eb9089470c8080f0a68e",
+        "balance_wei": "0",
+        "code_bytes": 1287,
+        "code_sha256": "7d6c46f53a4441c9b7d4cf3d00ff7b28bd31a84dbc9d18a8ebcce33b1e8b34fb"
+      },
+      {
+        "address": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
+        "balance_wei": "0",
+        "code_bytes": 22990,
+        "code_sha256": "755038d06a586bf545db7f205b6683064e7402668c544ef0517fd552fb781443"
+      },
+      {
+        "address": "0x000000000004444c5dc75cB358380D2e3dE08A90",
+        "balance_wei": "46186680503456789539857",
+        "code_bytes": 24009,
+        "code_sha256": "3316c7b1c67095ef6fc9b7e62fc754ad1e46e1c9119564ea4f5615a252af893e"
+      }
+    ],
+    "evidence_sha256": "d3d3db919931c1ba745dfeaddc4faa91cfd60f5c316a9f2dfa865dad7e5e6582",
+    "named_reference": {
+      "imd": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
+      "uniswap_v4_pool_manager": "0x000000000004444c5dc75cB358380D2e3dE08A90",
+      "zto": "0xd782bdea4ef02a0bd391eb9089470c8080f0a68e",
+      "zto_imd_pool_id": "0x888b07bd282f587d3c6b0fcb23e7fc55bbb33abe8910dd7492db815dc8dc5592"
+    },
+    "schema": "chain-snapshot/v1"
+  },
+  "schema": "evidence-handoff/v1",
+  "source_inventory": {
+    "files": [
+      {
+        "bytes": 2439,
+        "path": "gathering/tools/evidence-handoff/README.md",
+        "sha256": "7e57b446f165aa59b658bf31c2e395d667345bd8b512291047615e299506e8e6"
+      },
+      {
+        "bytes": 4903,
+        "path": "gathering/tools/evidence-handoff/evidence_handoff.py",
+        "sha256": "2a6c4c813801327cf1f589f648a580b55791ad03511948cbedfb30eee7d7d5fb"
+      },
+      {
+        "bytes": 1861,
+        "path": "line-2/tools/allowance-watch/README.md",
+        "sha256": "5b747ecb6075fcf08c331c463086ae0c6e8ef61a1f47fcc98210396029e1217f"
+      },
+      {
+        "bytes": 4067,
+        "path": "line-2/tools/allowance-watch/watch.py",
+        "sha256": "a48f0c0615754249b05acd3507be15f59220b49bdf1a42ef4481e1a0b5f41504"
+      },
+      {
+        "bytes": 1193,
+        "path": "line-3/tools/chain-snapshot/README.md",
+        "sha256": "6ce1d8b648d4653aec44cac1b581cbea28fe584bca5947deb14fe415b1944315"
+      },
+      {
+        "bytes": 3867,
+        "path": "line-3/tools/chain-snapshot/chain_snapshot.py",
+        "sha256": "0cf0a4bc2aa5a5fdc94c23d96a55054a77f31b5ecdca1fe976b85025624396f6"
+      },
+      {
+        "bytes": 4397,
+        "path": "shared/handoff.py",
+        "sha256": "b4ca6e0f0f6767ce360ad4d36de56aa59d1740572a857563094f8aa53136e0f9"
+      },
+      {
+        "bytes": 2734,
+        "path": "shared/pinned_rpc.py",
+        "sha256": "df2bb3cc69a32bd46593d75649a3ab4889e02e4f9d1af0cfaf90d4cdbfdadb79"
+      }
+    ],
+    "schema": "swarm-handoff/v1",
+    "scopes": [
+      "gathering/tools/evidence-handoff",
+      "line-2/tools/allowance-watch",
+      "line-3/tools/chain-snapshot",
+      "shared/handoff.py",
+      "shared/pinned_rpc.py"
+    ]
+  },
+  "zto_allowance": {
+    "allowance_raw": "0",
+    "balance_raw": "304803613558455485181235214",
+    "block_hash": "0x1eded1203539d1341d6cfd87aaaf617fedd6ab93ec7c932a27d7e7754baa34e2",
+    "block_number": 26135243,
+    "chain_id": 1,
+    "currently_spendable_raw": "0",
+    "future_deposits_exposed": false,
+    "owner": "0x000000000004444c5dc75cb358380d2e3de08a90",
+    "spender": "0x000000000004444c5dc75cb358380d2e3de08a90",
+    "token": "0xd782bdea4ef02a0bd391eb9089470c8080f0a68e",
+    "unlimited_allowance": false
+  }
+}

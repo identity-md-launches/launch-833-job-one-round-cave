@@ -1,0 +1,24 @@
+{
+  "format": "PNG",
+  "width": 1254,
+  "height": 1254,
+  "base_sha256": "9cbb7bb2a41efa92e010921f287819c9ffb02c4375fa9496c8468701d8e00cc5",
+  "wall_sha256": "7579750573c9b6c07c7bfa4b8193bc187feeb87ad01b4c91658b6cf6723cde04",
+  "mark_rectangle_xywh": [
+    462,
+    385,
+    330,
+    361
+  ],
+  "changed_pixels": 46203,
+  "changed_bounds_inclusive": [
+    470,
+    397,
+    789,
+    733
+  ],
+  "changed_pixels_outside_mark_rectangle": 0,
+  "generated_mark_sha256": "c13293c142effb301eb2ad868f44caf69cf04e1779093d4c083ad5b4c416c997",
+  "unmet_visual_requirements": [],
+  "visual_review": "Pepe bust, four converging trails, earth pigments; no visible hands, handprints, text, numbers, logos or frames. Existing rock retained outside pigment. No prior gathering marks existed."
+}

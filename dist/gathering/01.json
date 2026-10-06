@@ -1,0 +1,22 @@
+{
+  "name": "Four Paths, One Witness",
+  "image": "https://api.imd.fun/artifacts/7579750573c9b6c07c7bfa4b8193bc187feeb87ad01b4c91658b6cf6723cde04",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Evidence handoff"
+    }
+  ]
+}
