@@ -1,0 +1,22 @@
+{
+  "name": "The Permission Keeper",
+  "image": "https://api.imd.fun/artifacts/3956be06c8fcd8f4dacecacec6b623f1cc9393548db7c6cf514964f9b32e08e9",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Allowance Watch"
+    }
+  ]
+}
