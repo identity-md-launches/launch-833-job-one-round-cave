@@ -1,0 +1,22 @@
+{
+  "name": "The First Check",
+  "image": "https://api.imd.fun/artifacts/3b2f6c0c57f50d1f930874c47e4f68c8e09eaf6b8d159caafb807135012f5143",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Handoff inventory"
+    }
+  ]
+}
